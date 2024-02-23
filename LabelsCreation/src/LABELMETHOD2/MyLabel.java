@@ -29,7 +29,7 @@ public class MyLabel extends JLabel{
 			
 		
 			this.setHorizontalTextPosition(JLabel.LEFT); //set text LEFT,CENTER, RIGHT of imageicon FOR THE CENTER UBER DIE BILD
-			this.setVerticalTextPosition(JLabel.TOP); //set text TOP,CENTER, BOTTOM of imageicon
+			this.setVerticalTextPosition(JLabel.TOP); //set text TOP,CENTER, BOTTOM of image icon
 			this.setForeground(new Color(0x4b0082)); //set font color of text 
 			this.setFont(new Font("MV Boli",Font.PLAIN,100)); //set font=STYLE of text 
 			this.setIconTextGap(+100); //set gap of text to image = the distance 
