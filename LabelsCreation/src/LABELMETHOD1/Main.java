@@ -14,7 +14,7 @@ public class Main {
 
 		// JLabel = a GUI display area for a string of text, an image, or both
 		
-		ImageIcon image = new ImageIcon("dude.png");
+		ImageIcon image = new ImageIcon("sky.jpg");
 		Border border = BorderFactory.createLineBorder(Color.green,3); // WE CAN USE ADDSUPPR TO DELETE THE WARNING
 		
 		JLabel label = new JLabel(); //create a label
